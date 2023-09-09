@@ -1,10 +1,10 @@
 ### 🥑 About me:
 I am a saecond year Computer Science student at the University of Alberta
-- 🔭 I’m currently working on another personal website, CD website, traffic simulator, etc
+- 🔭 I’m currently working on another personal website, finance data manager web application, etc
 - 🧠 I have a tendency of having too many ideas to the point where I start doing too many projects at once and end up leaving some incomplete
-- 🌱 I’m currently learning frontend web development, computer graphics
+- 🌱 I’m currently learning frontend and backend web development, C, Linux
 - 📫 How to reach me: [e-mail](tomasordonezg@gmail.com)
-- ⚡ In my free time, I enjoy making origami, collecting CDs, cooking, leetcode, making all sorts of programs, and more
+- ⚡ In my free time, I enjoy photography, programming, origami, music, cooking, and more
 
 ---
 
