@@ -1,5 +1,5 @@
 ### 🥑 About me:
-I am a saecond year Computer Science student at the University of Alberta
+I am a second year Computer Science student at the University of Alberta
 - 🔭 I’m currently working on another personal website, finance data manager web application, etc
 - 🧠 I have a tendency of having too many ideas to the point where I start doing too many projects at once and end up leaving some incomplete
 - 🌱 I’m currently learning frontend and backend web development, C, Linux
