@@ -1,7 +1,7 @@
 ### 🥑 About me:
 Second year Computer Science student at the University of Alberta
-- 🔭 I’m currently working on another personal website, finance data manager web application, etc
-- 🌱 I’m currently learning C, SDL2, Graphics programming, C++, SQL
+- 🔭 I’m currently working on multiple graphics related C and C++ projects, finance data manager web application, etc
+- 🌱 I’m currently learning C++, Graphics programming, SQL
 - 📫 How to reach me: [e-mail](mailto:tomasordonezg@gmail.com)
 - ⚡ In my free time, I enjoy photography, programming, origami, music, cooking, and more
 
