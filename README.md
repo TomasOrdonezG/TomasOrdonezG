@@ -1,5 +1,5 @@
 ### 🥑 About me:
-Second year Computer Science student at the University of Alberta
+Third year Computer Science student at the University of Alberta
 - 🔭 I’m currently working on various graphics related C++ projects
 - 🌱 I’m currently learning C++, GLSL, OpenGL
 - 📫 How to reach me: [e-mail](mailto:tomasordonezg@gmail.com)
@@ -30,6 +30,5 @@ Second year Computer Science student at the University of Alberta
 ### 🥚 Currently learning:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" title="openGL" alt="openGL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/glsl/glsl-plain.svg" title="GLSL" alt="GLSL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
