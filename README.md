@@ -32,8 +32,6 @@ Third year Computer Science student at the University of Alberta
 ### 🥚 Currently Learning:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" title="openGL" alt="openGL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
