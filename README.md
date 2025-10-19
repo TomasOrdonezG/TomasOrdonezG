@@ -26,21 +26,3 @@ Third year Computer Science student at the University of Alberta
   <img src="https://github.com/devicons/devicon/blob/master/icons/tex/tex-original.svg" title="Tex"  alt="Tex" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 🥚 Currently Learning:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" title="openGL" alt="openGL" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :penguin: Planning to Learn:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-</div>
