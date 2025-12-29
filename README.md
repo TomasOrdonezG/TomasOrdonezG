@@ -1,5 +1,5 @@
 ### 🥑 About Me:
-Third year Computer Science student at the University of Alberta
+Fourth year Computer Science student at the University of Alberta
 - 📫 Contact: [e-mail](mailto:tomasordonezg@gmail.com)
 
 ---
